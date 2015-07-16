@@ -1,5 +1,5 @@
 ##  The year is 1908
 
-This is a new Markdown slide
+<img src="resources/1910Ford-T.jpg" style="width:60%;height:60%"/>
 
-![Alt text](https://www.google.com/logos/doodles/2015/ida-b-wells-153rd-birthday-4853060954226688-hp.jpg)
+Image: [Wikipedia](https://en.wikipedia.org/wiki/File:1910Ford-T.jpg)
