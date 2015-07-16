@@ -265,3 +265,13 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #42affa; }
+
+img {
+  border: none;
+  background-color: red; }
+
+.reveal section img {
+  margin: 15px 0px;
+  background: none;
+  border: none;
+  box-shadow: none; }
