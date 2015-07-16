@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Overview of Synthetic Biology",
+    "packageVersion": "0.1.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "0u812",
+    "githubRepository": "synbio-intro-slides"
+  }
+}
