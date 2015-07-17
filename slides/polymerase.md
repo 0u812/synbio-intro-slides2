@@ -1,4 +1,4 @@
-##  DNA Polymerase
+##  RNA Polymerase
 
 <img src="resources/goodsell-polymerase-april-2003.png" style="width:50%;height:auto"/>
 
