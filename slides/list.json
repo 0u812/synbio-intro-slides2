@@ -13,5 +13,11 @@
     "polymerase.md",
     "clash-of-the-titans.md",
     "clash-of-the-titans-2.md",
-    "making-drugs-synthetically.md"
+    "making-drugs-synthetically.md",
+    {
+        "filename": "what-will-you-design.md",
+        "attr": {
+            "data-background": "resources/earth-nasa-scaled.jpg"
+        }
+    }
 ]
