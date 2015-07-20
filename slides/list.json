@@ -19,5 +19,11 @@
         "attr": {
             "data-background": "resources/earth-nasa-scaled.jpg"
         }
+    },
+    {
+        "filename": "destiny-unfolding.md",
+        "attr": {
+            "data-background": "resources/milky-way.jpg"
+        }
     }
 ]
