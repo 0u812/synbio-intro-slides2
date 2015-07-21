@@ -1,4 +1,4 @@
-##  Clash of the Titans
+##  Unlikely Allies
 
 <img src="resources/stefano.jpg" style="width:75%;height:60%"/>
 
