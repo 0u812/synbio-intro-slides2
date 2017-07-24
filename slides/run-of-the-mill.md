@@ -1,4 +1,4 @@
-##  Run of the Mill
+##  Synthetic, Sustainablly-Sourced Chemicals
 
 <img src="resources/amyris-article.png" style="width:120%;height:auto"/>
 
