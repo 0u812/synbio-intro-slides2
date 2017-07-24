@@ -1,5 +1,6 @@
 *.kate-swp
 node_modules
+xnode_modules
 bower_components
 dist
 *.log
